@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="25" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="gongchang" tilewidth="32" tileheight="32">
+  <image source="gongchang.png" width="128" height="256"/>
+ </tileset>
+ <layer name="块层 1" width="40" height="25">
+  <data encoding="base64" compression="zlib">
+   eJzNl2kPwjAIhrst0+iixmM6j///O4UPTQgBCjuyvQlZiluh5elhn1J6gr3ABrB+Y+192q4qsG7tJAy1YJe1kzCE89fM1FedyixFhfNn8afFw3G9wT7k3Z0jXv4+oo7lQXVQvmkF3zEQM5Knxd9J8VeC7+yMF5XFX2T+asGn1UUS5Sg/S/xp80fzzhx6+IsK4/D9j46Z1jHn8U1y3hH+vMI4Fn9SHTUtwV9p/9P4k8T50/amyJ7o4Y/W9Uee3M/5u4LdwO5gD6NtCeenYbHWFB8zzs9e+G0r4veXreUo3V+8OVLOvedV7pvXUVPmLyLtTNDW55Q7DOVvbF7We1N5yfx5/xNEFDl7UVK9p96f51pPGodj+JtTpfWR+fPW18v34OyvJOTPew4t3db8fyFZFxw=
+  </data>
+ </layer>
+</map>

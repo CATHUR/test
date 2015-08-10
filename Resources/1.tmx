@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="25" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="kuangdong" tilewidth="32" tileheight="32">
+  <image source="kuangdong.png" width="128" height="128"/>
+  <tile id="2">
+   <properties>
+    <property name="Collidable" value="True"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="Collidable" value="True"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="Collidable" value="True"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="Collidable" value="True"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="块层 1" width="40" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztkeEKgCAMBt1AwfL9n7f9aDCq0cBoEd/BoQjiMUsBAAAAAABPQiKLXVzE1ezt2UDfr/p6OfeRkRP7htNXE/uObVf/mzm/aF/dbR/s0y5d35ihvkU3smPk3mxfxOYYuTfDBsuoA+Q=
+  </data>
+ </layer>
+ <layer name="hidemate" width="40" height="25" opacity="0.02">
+  <data encoding="base64" compression="zlib">
+   eJztkF0HACAMAKNY//8X18vIJGbpgzvuqZVbKQEAAADATnK33I5YQF8MT5/Ontzp9T7pVufsq//3U9/sXjbu2MG+udL2zc7HNjWCOK2OOTVCA9uWAcA=
+  </data>
+ </layer>
+</map>

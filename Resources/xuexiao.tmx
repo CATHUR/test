@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="25" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="xuexiao" tilewidth="32" tileheight="32">
+  <image source="xuexiao.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="65" name="meta_tiles" tilewidth="32" tileheight="32">
+  <image source="meta_tiles.png" width="67" height="34"/>
+ </tileset>
+ <layer name="块层 1" width="40" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztlrcOgzAQhiEhZUlZUpYUKWVJWVKWlCHv/1D5kUCyrDsX7NgeMnwCw9l8HAdckWVZDlqgXe3XY/F4IZ3jYqkYbi1xrGIDtmAH9sLcD4PuvE9KvwM4ghM4J+h3AVdwA/dIHiq/B3iCF3gHzJeuJvNqa7ueaXwHdEEP9B3y1/S+dXEDMAQjMA7oZ+o5AVMwA/MIfjrPBViCFVgz83TrUt9drla5OJtYeWzi55o/l7z//dz85Gce2o/qFVzrT/Xd8PkvsfUzed+4XKRSf77zp+OX/19bqD7U1C9Er0X1oXJdxXIrkftQk/yZuPl6j6g+VDUnlf45VTfOT9WP1Pi4NrWu7ro+EWuwKV9EeLog
+  </data>
+ </layer>
+ <layer name="hidemate" width="40" height="25">
+  <properties>
+   <property name="Collidable" value="True"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztlEsKwDAIRHs173+p0kU2IcZvMhYccBM1PgWlp7YIDSCo+WKqzldd1efXfP7apIg5qeaL6Q98s638txk4Hi5X+y75rLLySb1655DFp/0zc36Zvd/eJ0s9xK5rZ4m6Q5EdX8Wc2KNdDvp+DwbuHc32aXefs++dp051ewEEyCpo
+  </data>
+ </layer>
+</map>
